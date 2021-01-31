@@ -2,7 +2,7 @@
 
 ## Exercises
 
-* 
+* Regression diagnostics exercise: https://github.com/cmcntsh/stats2021_exer_regressionDiagnostics
 
 ## Readings
 

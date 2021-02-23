@@ -8,8 +8,8 @@ This is part of a set of pages on statistics. https://github.com/cmcntsh/stats20
 
 ## Readings
 
-* Field chapter 9 sections 9.11.5 - 9.11.6 (skim)
-* Navarro & Foxcroft chapter 12.10 - 12.11 (read closely) available at: https://drive.google.com/file/d/1VoIwuVI4BOTMC3BQx6oHu6zoPV80ljls/view
+* Field chapter 9 sections 9.3 - 9.5, 9.9, 9.11.5 - 9.11.7 
+* Navarro & Foxcroft chapter 12.9 - 12.11 (read closely) available at: https://drive.google.com/file/d/1VoIwuVI4BOTMC3BQx6oHu6zoPV80ljls/view
 * Applied Statistics with R Ch. 13 (optional) available at: https://daviddalpiaz.github.io/appliedstats/model-diagnostics.html
 * R for Researchers OLS available at: https://ssc.wisc.edu/sscc/pubs/RFR/RFR_Regression.html
 * R for Researchers regression diagnostics available at: https://ssc.wisc.edu/sscc/pubs/RFR/RFR_Diagnostics.html

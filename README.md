@@ -11,6 +11,8 @@ This is part of a set of pages on statistics. https://github.com/cmcntsh/stats20
 * Field chapter 9 sections 9.11.5 - 9.11.6 (skim)
 * Navarro & Foxcroft chapter 12.10 - 12.11 (read closely) available at: https://drive.google.com/file/d/1VoIwuVI4BOTMC3BQx6oHu6zoPV80ljls/view
 * Applied Statistics with R Ch. 13 (optional) available at: https://daviddalpiaz.github.io/appliedstats/model-diagnostics.html
+* R for Researchers OLS available at: https://ssc.wisc.edu/sscc/pubs/RFR/RFR_Regression.html
+* R for Researchers regression diagnostics available at: https://ssc.wisc.edu/sscc/pubs/RFR/RFR_Diagnostics.html
 * Diagnostics in multiple linear regression (optional) available at: https://web.stanford.edu/class/stats191/notebooks/Diagnostics_for_multiple_regression.html
 * Introduction to regression diagnostics available at: https://stats.idre.ucla.edu/wp-content/uploads/2019/02/R_reg_part2.html#(1)
 * Regression model diagnostics available at: http://www.sthda.com/english/articles/39-regression-model-diagnostics/161-linear-regression-assumptions-and-diagnostics-in-r-essentials/

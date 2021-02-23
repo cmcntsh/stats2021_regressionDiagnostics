@@ -12,6 +12,7 @@ This is part of a set of pages on statistics. https://github.com/cmcntsh/stats20
 * Navarro & Foxcroft chapter 12.10 - 12.11 (read closely) available at: https://drive.google.com/file/d/1VoIwuVI4BOTMC3BQx6oHu6zoPV80ljls/view
 * Applied Statistics with R Ch. 13 (optional) available at: https://daviddalpiaz.github.io/appliedstats/model-diagnostics.html
 * Diagnostics in multiple linear regression (optional) available at: https://web.stanford.edu/class/stats191/notebooks/Diagnostics_for_multiple_regression.html
+* Introduction to regression diagnostics available at: https://stats.idre.ucla.edu/wp-content/uploads/2019/02/R_reg_part2.html#(1)
 * Outlier detection with Mahalanobis distance (optional) available at: https://www.r-bloggers.com/outlier-detection-with-mahalanobis-distance/
 * Multivariate outlier (optional) available at: https://en.wikiversity.org/wiki/Multivariate_outlier
 
